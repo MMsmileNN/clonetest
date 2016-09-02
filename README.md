@@ -1,4 +1,4 @@
 # clonetest
 
 create a new branch and simple
-to new dev
+git stash 存储工作
